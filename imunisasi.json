@@ -1,0 +1,39 @@
+[
+    {
+        "tanggal": "2026-04-10",
+        "nama": "Ujang",
+        "umur": 8,
+        "jk": "Laki-laki",
+        "jenis_imunisasi": "Polio"
+    },
+    {
+        "tanggal": "2026-04-10",
+        "nama": "Ujang",
+        "umur": 9,
+        "jk": "Laki-laki",
+        "jenis_imunisasi": "Hepatitis B"
+    },
+    {
+        "tanggal": "2026-04-11",
+        "nama": "Ujang Wijayanto",
+        "umur": 10,
+        "jk": "Laki-laki",
+        "jenis_imunisasi": "BCG"
+    },
+    {
+        "tanggal": "2026-04-11",
+        "nama": "nadier",
+        "umur": 6,
+        "jk": "Laki-laki",
+        "jenis_imunisasi": "Polio",
+        "user_id": 3
+    },
+    {
+        "tanggal": "2026-04-20",
+        "nama": "Ujang",
+        "umur": 9,
+        "jk": "Laki-laki",
+        "jenis_imunisasi": "Polio",
+        "user_id": 2
+    }
+]

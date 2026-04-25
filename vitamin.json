@@ -1,0 +1,47 @@
+[
+    {
+        "tanggal": "2026-04-10",
+        "nama": "Ahmad Siddiqan",
+        "umur": 9,
+        "jk": "Laki-laki",
+        "jenis_vitamin": "Vitamin B 100.000 UI"
+    },
+    {
+        "tanggal": "2026-04-10",
+        "nama": "Ujang",
+        "umur": 9,
+        "jk": "Laki-laki",
+        "jenis_vitamin": "Vitamin B 100.000 UI"
+    },
+    {
+        "tanggal": "2026-04-10",
+        "nama": "Masa Allah",
+        "umur": 9,
+        "jk": "Perempuan",
+        "jenis_vitamin": "Vitamin B 200.000 UI"
+    },
+    {
+        "tanggal": "2026-04-20",
+        "nama": "yusuf gemoy",
+        "umur": 1,
+        "jk": "Laki-laki",
+        "jenis_vitamin": "Vitamin A 200.000 UI",
+        "user_id": 2
+    },
+    {
+        "tanggal": "2026-04-20",
+        "nama": "ujang",
+        "umur": 8,
+        "jk": "Laki-laki",
+        "jenis_vitamin": "Vitamin B 100.000 UI",
+        "user_id": 2
+    },
+    {
+        "tanggal": "2026-04-30",
+        "nama": "caid labubu",
+        "umur": 2,
+        "jk": "Laki-laki",
+        "jenis_vitamin": "Vitamin B 200.000 UI",
+        "user_id": 4
+    }
+]

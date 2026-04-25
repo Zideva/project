@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "tanggal": "15 Maret",
+        "hari": "Minggu",
+        "nama_posyandu": "Posyandu Melati",
+        "alamat": "Jl. Melati No.12",
+        "jam": "09:00 - 12:00",
+        "deskripsi": "Pemeriksaan pertumbuhan, imunisasi, pemberian vitamin, dan penyuluhan kesehatan untuk ibu hamil dan balita."
+    },
+    {
+        "id": 3,
+        "tanggal": "14 Maret",
+        "hari": "Sabtu",
+        "nama_posyandu": "Posyandu Kenangan",
+        "alamat": "Jl. Kenangan No.25",
+        "jam": "09:30 - 12:45",
+        "deskripsi": "Pemeriksaan pertumbuhan anak, pemberian vitamin, makan sehat bersama, dan edukasi orang tua."
+    },
+    {
+        "id": 5,
+        "tanggal": "10 April",
+        "hari": "Jumat",
+        "nama_posyandu": "Posyandu Semangat Dalam ",
+        "alamat": "Jl Semangat Dalam",
+        "jam": "08:00-08:00",
+        "deskripsi": "Pemeriksaan narkoba"
+    },
+    {
+        "id": 6,
+        "tanggal": "10",
+        "hari": "Jumat",
+        "nama_posyandu": "Posyandu ratu zaleha",
+        "alamat": "Jln Ratu Zaleha",
+        "jam": "8:00 - 11:00",
+        "deskripsi": "Pemeriksaan Orang Tua "
+    }
+]
